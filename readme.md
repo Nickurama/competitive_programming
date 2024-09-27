@@ -1,12 +1,6 @@
-# Competitive Programming
+# [Codeforces](https://codeforces.com/)
 
-## Codeforces
-### Profile
+### [Profile](https://codeforces.com/profile/Nickurama)
 ![](https://codeforces.com/userpic.codeforces.org/3552474/title/e79f14521755d18b.jpg)
-> [codeforces](https://codeforces.com/profile/Nickurama)
-### Link
-> [codeforces](https://codeforces.com/)
 
-## CSES
-### Link
-> [CSES](https://cses.fi/)
+# [CSES](https://cses.fi/)

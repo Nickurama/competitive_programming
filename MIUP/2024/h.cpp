@@ -14,7 +14,7 @@ void solve()
 	{
 		std::cin >> K >> V;
 		children[K].emplace_back(V);
-		children[V].emplace_back(K);
+		fathers[V].emplace_back(K);
 	}
 
 	std::unordered_set<int> closed;

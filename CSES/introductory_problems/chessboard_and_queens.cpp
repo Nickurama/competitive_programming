@@ -50,7 +50,7 @@ int search(int queens, int count, int row, int col, bool board[8][8], std::vecto
 	if (!board[row][col] && !isBeingAttacked(row, col, queens_location))
 	{
 		board[row][col] = true;
-		queens_location.emplace_back(row, col); // might not work cuz pair
+		queens_location.emplace_back(row, col);
 		count = search(queens + 1, count, newRow, newCol, board, queens_location);
 		queens_location.pop_back();
 		board[row][col] = false;
